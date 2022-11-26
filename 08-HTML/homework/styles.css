@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/03/09/16468231897426.jpg");    
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: orange;    
+}
+img {
+    width: 400px;
+}
+div {
+    align-items: center;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: yellow;
+    padding: 50px;
+    border: 1px solid red;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
